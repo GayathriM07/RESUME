@@ -1,0 +1,52 @@
+*{
+    font-size: 100%;
+    font-weight: normal;
+    margin:0px;
+  }
+h1{
+    font-size:50px ;
+    text-align: center;
+    margin-top: 5px;
+}
+h2{
+    font-size: 35px;
+    margin-left: 17%;
+    margin-top: 5px;
+}
+h3{
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 15%;
+    margin-top: 5px;
+}
+div{
+    text-align: right;
+    margin-left: 15%;
+    margin-top: 20px;
+   
+}
+p{
+    margin-left: 18%;
+    margin-top: 20px;
+    margin-bottom: 1%;
+    margin-right: 10%;
+}
+hr{
+    margin-left: 15%;
+    margin-right: 8%;
+}
+table{
+    margin-left: 19%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+ul{
+    margin-left: 17%;
+}
+li{
+    margin-top: 1%;
+}
+h6{
+    margin-left: 17%;
+    margin-bottom: 1%;
+}
